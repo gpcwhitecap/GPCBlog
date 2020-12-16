@@ -1,0 +1,21 @@
+<svg width="891px" height="70px" viewBox="0 0 891 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>顶部标题栏</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="49.7087725%" x2="0%" y2="49.7111388%" id="linearGradient-1">
+            <stop stop-color="#46DAFF" stop-opacity="0.79" offset="0%"></stop>
+            <stop stop-color="#242B2F" offset="36.9997951%"></stop>
+            <stop stop-color="#087793" offset="76.4004835%"></stop>
+            <stop stop-color="#7FE5FF" offset="80.9820655%"></stop>
+            <stop stop-color="#0488A8" offset="90.1407203%"></stop>
+            <stop stop-color="#009EC5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="顶部标题栏" transform="translate(0.000000, 1.000000)">
+            <path d="M43.7623568,7.79866885 L136.237643,60.2013312 C145.258431,65.3131109 155.44994,68 165.818398,68 L733.517469,68 C744.621055,68 755.506852,64.9188601 764.963314,59.099499 L846.536686,8.900501 C855.993148,3.08113987 866.878945,2.29413371e-13 877.982531,0 L891,0 L891,0 L1.5,0 L14.1816025,0 C24.5500596,-1.61155094e-14 34.741569,2.68688911 43.7623568,7.79866885 Z" id="路径-14" fill-opacity="0.6" fill="#000000"></path>
+            <path d="M0,0 L14.1816025,0 C24.5500596,0 34.741569,2.68688911 43.7623568,7.79866885 L136.237643,60.2013312 C145.258431,65.3131109 155.44994,68 165.818398,68 L733.517469,68 C744.621055,68 755.506852,64.9188601 764.963314,59.099499 L846.536686,8.900501 C855.993148,3.08113987 866.878945,0 877.982531,0 L891,0 L891,0" id="路径" stroke="url(#linearGradient-1)" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>
